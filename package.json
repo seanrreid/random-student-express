@@ -1,0 +1,27 @@
+{
+  "name": "root-vegetable-rodent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAOneill/root-vegetable-rodent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MAOneill/root-vegetable-rodent/issues"
+  },
+  "homepage": "https://github.com/MAOneill/root-vegetable-rodent#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-es6-template-engine": "^2.1.7",
+    "nodemon": "^1.18.10",
+    "underscore": "^1.9.1"
+  }
+}
